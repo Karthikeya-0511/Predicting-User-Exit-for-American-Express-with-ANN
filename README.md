@@ -3,10 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>American Express Card Default Prediction</title>
-    
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
 <h2>Overview</h2>
     <p>This project implements an Artificial Neural Network (ANN) model using TensorFlow and Keras to predict whether a customer will default on their American Express credit card.</p>
     
