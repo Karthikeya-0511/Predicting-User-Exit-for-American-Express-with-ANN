@@ -5,30 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>American Express Card Default Prediction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
-    <h1>American Express Card Default Prediction using Artificial Neural Networks (ANN)</h1>
+    
     
 <h2>Overview</h2>
     <p>This project implements an Artificial Neural Network (ANN) model using TensorFlow and Keras to predict whether a customer will default on their American Express credit card.</p>
